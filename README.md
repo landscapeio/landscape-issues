@@ -1,4 +1,4 @@
-# [Click here for the issue tracker](https://github.com/landscapeio/landscape-issues)
+# [Click here for the issue tracker](https://github.com/landscapeio/landscape-issues/issues)
 ================
 
 This repository is for issues with the Landscape.io web interface at https://landscape.io
